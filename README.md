@@ -1,8 +1,8 @@
-CMSC 35440 Machine Learning in Biology and Medicine
-Homework 1: Embedding Immunology Research Articles
-Released: Jan 12, 2026
+# CMSC 35440 Machine Learning in Biology and Medicine
+## Homework 1: Embedding Immunology Research Articles
+### Released: Jan 12, 2026
 
-Due: Jan 23, 2026 at 11:59 PM Chicago Time on Gradescope
+### Due: Jan 23, 2026 at 11:59 PM Chicago Time on Gradescope
 
 In this first homework, you'll generate embeddings for 28 immunology research articles and visualize them using various dimensionality reduction techniques.
 
